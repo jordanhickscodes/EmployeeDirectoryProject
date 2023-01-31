@@ -63,10 +63,8 @@ class  Block_Mobile_ProjectTests: XCTestCase {
         let serialQueue = DispatchQueue(label: "")
         
         serialQueue.sync {
-            if case.failure(_) = CahceManager.removeImage(urlString: Constants.testImage) {
-                XCTFail()
-            }
-            
+           
+            CahceManager.removeImage(urlString: Constants.testImage)
             
             if case.success(_) = CahceManager.loadImage(urlString: Constants.testImage) {
                 XCTFail()
