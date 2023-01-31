@@ -1,0 +1,3042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7E40DD13-0EC7-40DA-A428-28011CEB13BD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7470855E-F2C8-4315-827C-C11880E734E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4024F952-9BDC-444E-B81A-FB0162AECB09"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "getEmployees()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4024F952-9BDC-444E-B81A-FB0162AECB09 - c562bd0085069efe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.MainDirectory.getEmployees() -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "4024F952-9BDC-444E-B81A-FB0162AECB09 - c2e95f60e130123e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Block_Mobile_Project.Employees, Swift.Error&gt;) -&gt; () in Block_Mobile_Project.MainDirectory.getEmployees() -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "110">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AACC736-3A0B-4CE9-8EEC-7A2E877A0F98"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "getEmployees()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBBF778C-9A27-4CF9-8220-5D14CDB68CF4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "getEmployees()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28C41526-6B81-4B1C-9B8B-85E2EFBAB61C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "state"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F5311FB-992A-46DF-893D-0BE762D6A27B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "state"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1C8CD5F-B87C-4F23-81B5-1FC4981B3672"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/ContactCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "fetchEmployeeImage(employeeData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8B6AE05-0089-4BE7-AEEF-2CDC77A9A158"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/ContactCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "configureView(employeeData:employeeImage:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D8B6AE05-0089-4BE7-AEEF-2CDC77A9A158 - 3eb394a2ac35509a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.ProfileCell.configureView(employeeData: Block_Mobile_Project.Employee, employeeImage: __C.UIImage) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Controller/ContactCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "D8B6AE05-0089-4BE7-AEEF-2CDC77A9A158 - 3eb394a2ac35509a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.ProfileCell.configureView(employeeData: Block_Mobile_Project.Employee, employeeImage: __C.UIImage) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Controller/ContactCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "D8B6AE05-0089-4BE7-AEEF-2CDC77A9A158 - 34b21dfe66a40d6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in Block_Mobile_Project.ProfileCell.configureView(employeeData: Block_Mobile_Project.Employee, employeeImage: __C.UIImage) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Controller/ContactCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A11A690F-E8CA-4AE0-BA38-F45034C92C79"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/ContactCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "configureView(employeeData:employeeImage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82B35994-4658-455E-AF82-9F7B43474741"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "fetchEmployeeDirectoryTableData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39C9CB8E-1C3F-40BB-BCAC-0248A3641A9E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "fetchEmployeeDirectoryTableData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "126C0D68-740B-44D7-9B46-F28E9604F0EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "126C0D68-740B-44D7-9B46-F28E9604F0EA - bca2941e80301e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.NetworkManager.fetchCodable&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Block_Mobile_Project.Requestable&gt;(requestable: &#x3c4;_0_0, completion: (Swift.Result&lt;&#x3c4;_0_0.SuccessModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Services/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "545">
+               </Location>
+               <Location
+                  uuid = "126C0D68-740B-44D7-9B46-F28E9604F0EA - bca2941e80301e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.NetworkManager.fetchCodable&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Block_Mobile_Project.Requestable&gt;(requestable: &#x3c4;_0_0, completion: (Swift.Result&lt;&#x3c4;_0_0.SuccessModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Services/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "835">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BA720F4-336E-46E8-8E69-B4A32F87F241"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "852672A3-EE59-4504-9088-24C020BC538F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "852672A3-EE59-4504-9088-24C020BC538F - bca2941e80300da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.NetworkManager.fetchCodable&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Block_Mobile_Project.Requestable&gt;(requestable: &#x3c4;_0_0, completion: (Swift.Result&lt;&#x3c4;_0_0.SuccessModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Services/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "838">
+               </Location>
+               <Location
+                  uuid = "852672A3-EE59-4504-9088-24C020BC538F - d121205783cc858b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Block_Mobile_Project.NetworkManager.fetchCodable&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Block_Mobile_Project.Requestable&gt;(requestable: &#x3c4;_0_0, completion: (Swift.Result&lt;&#x3c4;_0_0.SuccessModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Services/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "409">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DF2E413-D893-4A48-BB7B-3004313D0E7D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95447A22-BD6F-459F-8A15-8DEA3FA8E651"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B4AF37B-79A8-454B-B70D-AD22C693B215"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D84FBCD-BAA9-40C1-8A3C-747925F28CFD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDA7D265-DAB5-495B-84B7-0756D826954C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75B368E1-E1A4-498F-8DA1-B869672397DF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAF3E4EF-F222-4CC4-834D-8DCEF50C0971"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/EmployeeDirectoryCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BAF3E4EF-F222-4CC4-834D-8DCEF50C0971 - 5f1ac5e2bfd6a2a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.EmployeeDirectoryCollectionViewController.__allocating_init(frame: __C.CGRect) -&gt; Block_Mobile_Project.EmployeeDirectoryCollectionViewController"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Controller/EmployeeDirectoryCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "BAF3E4EF-F222-4CC4-834D-8DCEF50C0971 - d17a1ab21dd04ab0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.EmployeeDirectoryCollectionViewController.init(frame: __C.CGRect) -&gt; Block_Mobile_Project.EmployeeDirectoryCollectionViewController"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Controller/EmployeeDirectoryCollectionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "122">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFEB8949-CA52-46C8-97C9-9E5C27926456"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/EmployeeDirectoryCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBA39FE6-3A7D-4823-9B19-636CB0E7D0DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/EmployeeDirectoryCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30E57470-E8F8-4E5B-B7FF-FD5C1E359587"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/EmployeeDirectoryCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "collectionView(_:numberOfItemsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF1B01B3-D619-4DA3-AFA2-F596C280BAEC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/EmployeeDirectoryCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D3119F3-B328-4FD6-8BB8-B3C2334011D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "refresh()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B4C773E-3F49-40E5-A0EA-4267826DDAC5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CFD619C-BDFD-44AA-9DFE-A4A8C42F4457"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE37343B-9DCC-4427-B66E-29528E53AF21"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBBB91E1-E33A-40EC-8FFF-F939970A6666"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EBBB91E1-E33A-40EC-8FFF-F939970A6666 - d121205783cc8524"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Block_Mobile_Project.NetworkManager.fetchCodable&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Block_Mobile_Project.Requestable&gt;(requestable: &#x3c4;_0_0, completion: (Swift.Result&lt;&#x3c4;_0_0.SuccessModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Services/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "450">
+               </Location>
+               <Location
+                  uuid = "EBBB91E1-E33A-40EC-8FFF-F939970A6666 - d121205783cc8524"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Block_Mobile_Project.NetworkManager.fetchCodable&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Block_Mobile_Project.Requestable&gt;(requestable: &#x3c4;_0_0, completion: (Swift.Result&lt;&#x3c4;_0_0.SuccessModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Services/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "819">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CE3323C-5B3F-4076-A7FC-90ADCFF4456D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E87388E-45FC-43B8-A9CC-355E9621AA12"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC0A43A8-EC59-4625-87AD-EE05ECDCEEC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EB5CEDC-4117-4E3B-B5BB-A31E1FBF2BD1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/View/EmployeeProfileViewControllerComponents/EmployeeUuidLabel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "configureView(frame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C699173-16F2-43CE-A861-98E15213EFEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/EmployeeProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "configData(employeeData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F66E169-1961-43DC-A4CE-51DECED33A2C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/EmployeeProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "configData(employeeData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF31EA49-72C5-439F-AEE3-E78D314FD09C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/EmployeeDirectoryCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FD6ACD4-F3B6-4B08-B8D0-9EBC58BD60C0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/EmployeeDirectoryCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A016A77-6046-4C15-BB8C-170D88E1AE22"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF2D4B6F-A109-4DA8-A800-6E589E443AD3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED22EC0F-2E61-4A90-AAEE-3771232244F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/EmployeeProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "configureData(employeeData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B37A41C5-AF9D-4DA4-A809-53941E69981A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Controller/EmployeeProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "configData(employeeData:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B37A41C5-AF9D-4DA4-A809-53941E69981A - ee3beda401190702"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.EmployeeProfileViewController.configData(employeeData: Swift.Optional&lt;Block_Mobile_Project.Employee&gt;) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Controller/EmployeeProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "B37A41C5-AF9D-4DA4-A809-53941E69981A - ee3beda401190702"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.EmployeeProfileViewController.configData(employeeData: Swift.Optional&lt;Block_Mobile_Project.Employee&gt;) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Controller/EmployeeProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "127">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AC2095B-DB20-4EFD-91F7-C3E739DFDD36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/CustomViews/EmployeeProfileImageVIew.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchData(employeeData:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8AC2095B-DB20-4EFD-91F7-C3E739DFDD36 - 7a644ebc9b408165"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.EmployeeProfileImageView.configureData(employeeData: Block_Mobile_Project.Employee) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/CustomViews/EmployeeProfileImageVIew.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "8AC2095B-DB20-4EFD-91F7-C3E739DFDD36 - 7a644ebc9b408165"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.EmployeeProfileImageView.configureData(employeeData: Block_Mobile_Project.Employee) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/CustomViews/EmployeeProfileImageVIew.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "163">
+               </Location>
+               <Location
+                  uuid = "8AC2095B-DB20-4EFD-91F7-C3E739DFDD36 - 3ec7d256e3b3d467"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIImage) -&gt; () in Block_Mobile_Project.EmployeeProfileImageView.configureData(employeeData: Block_Mobile_Project.Employee) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/CustomViews/EmployeeProfileImageVIew.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "191">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF4CBFCF-5332-48D1-B00B-7C43AEBF8991"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/CustomViews/EmployeeProfileImageVIew.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchData(employeeData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95B654E3-EDD8-471D-A8A2-9AC772CA8EC4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/CustomViews/EmployeeProfileImageVIew.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchData(employeeData:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "95B654E3-EDD8-471D-A8A2-9AC772CA8EC4 - 3ec7d256e3b3d467"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIImage) -&gt; () in Block_Mobile_Project.EmployeeProfileImageView.configureData(employeeData: Block_Mobile_Project.Employee) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/CustomViews/EmployeeProfileImageVIew.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "191">
+               </Location>
+               <Location
+                  uuid = "95B654E3-EDD8-471D-A8A2-9AC772CA8EC4 - 3ec7d256e3b3d467"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIImage) -&gt; () in Block_Mobile_Project.EmployeeProfileImageView.configureData(employeeData: Block_Mobile_Project.Employee) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/CustomViews/EmployeeProfileImageVIew.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "215">
+               </Location>
+               <Location
+                  uuid = "95B654E3-EDD8-471D-A8A2-9AC772CA8EC4 - c6ebc27bbcabc262"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (__C.UIImage) -&gt; () in Block_Mobile_Project.EmployeeProfileImageView.configureData(employeeData: Block_Mobile_Project.Employee) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/CustomViews/EmployeeProfileImageVIew.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCCF9E75-2AF7-472A-9248-2B490B227B8E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DCCF9E75-2AF7-472A-9248-2B490B227B8E - 4b8cb7674b523794"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.NetworkManager.fetchImage(imageUrlString: Swift.String, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "930">
+               </Location>
+               <Location
+                  uuid = "DCCF9E75-2AF7-472A-9248-2B490B227B8E - 4b8cb7674b523794"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.NetworkManager.fetchImage(imageUrlString: Swift.String, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/Block_Mobile_Project-2/Block_Mobile_Project/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "1008">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57C55035-7BD1-44F9-910C-61DA33D99FA2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1C6E4BB-6A8E-4EBD-92AB-D6D0E8D6B74E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A1C6E4BB-6A8E-4EBD-92AB-D6D0E8D6B74E - ee8c6033ad2e61ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Block_Mobile_Project.NetworkManager.fetchImage(imageUrlString: Swift.String, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1001">
+               </Location>
+               <Location
+                  uuid = "A1C6E4BB-6A8E-4EBD-92AB-D6D0E8D6B74E - ee8c6033ad2e61ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Block_Mobile_Project.NetworkManager.fetchImage(imageUrlString: Swift.String, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0850107D-2139-472F-BF95-3DFE91046C6E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2831B443-9E33-4DBA-98C6-EBA8CE6162A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "322A1568-226F-496B-BDF1-48541D9C4B3F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1425DC83-654C-4830-8FA8-CAC959258F2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/CustomViews/EmployeeProfileImageVIew.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "fetchData(employeeData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6FDE50D-E32B-499A-BD1E-7FD748F4F62B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/CustomViews/EmployeeProfileImageVIew.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchData(employeeData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6EBFFD23-4B8D-4B86-AB56-5980C47B2DDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/CustomViews/EmployeeProfileCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "set(employeeData:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6EBFFD23-4B8D-4B86-AB56-5980C47B2DDD - 26e0cf6ab0c8eb19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.EmployeeProfileCollectionViewCell.set(employeeData: Swift.Optional&lt;Block_Mobile_Project.Employee&gt;) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/CustomViews/EmployeeProfileCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "179">
+               </Location>
+               <Location
+                  uuid = "6EBFFD23-4B8D-4B86-AB56-5980C47B2DDD - 71373c1d26ad51c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in Block_Mobile_Project.EmployeeProfileCollectionViewCell.set(employeeData: Swift.Optional&lt;Block_Mobile_Project.Employee&gt;) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/CustomViews/EmployeeProfileCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5387CDF-B025-4C7A-AF66-A9BA8E33FE18"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/CustomViews/EmployeeProfileCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "set(employeeData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "656C5FAD-47DA-40F6-B57E-7E8CE313F51F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/CustomViews/EmployeeProfileCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "set(employeeData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8DFEFFA-F2E5-4355-82C2-8A1A25F8E858"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/CustomViews/EmployeeProfileCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "set(employeeData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC82873F-A028-45AA-AC0A-61F1367099BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CB6DC9C-7869-4875-B61B-8D689C32C6A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62C96959-BC9A-4D0D-8BED-2918498B1487"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "fetchCodable(requestable:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CC89F1E-4A8A-4447-94A8-9F6EE61719F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "test_get_employees_failure()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0CC89F1E-4A8A-4447-94A8-9F6EE61719F8 - daeb832bce76d287"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_get_employees_failure() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  uuid = "0CC89F1E-4A8A-4447-94A8-9F6EE61719F8 - daeb832bce76d545"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_get_employees_failure() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "559A2FF6-6EFD-4D50-AB72-2A29AFF06285"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "test_get_employees_failure()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "559A2FF6-6EFD-4D50-AB72-2A29AFF06285 - daeb832bce76d3bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_get_employees_failure() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "311">
+               </Location>
+               <Location
+                  uuid = "559A2FF6-6EFD-4D50-AB72-2A29AFF06285 - 369a7b854264a688"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Block_Mobile_Project.Employee&gt;) -&gt; () in Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_get_employees_failure() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B96A350-7CCE-4CCA-B43A-4936F028B2E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "test_get_employees_failure()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7B96A350-7CCE-4CCA-B43A-4936F028B2E4 - daeb832bce76d3fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_get_employees_failure() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "590">
+               </Location>
+               <Location
+                  uuid = "7B96A350-7CCE-4CCA-B43A-4936F028B2E4 - 369a7b854264a74e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Block_Mobile_Project.Employee&gt;) -&gt; () in Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_get_employees_failure() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "7B96A350-7CCE-4CCA-B43A-4936F028B2E4 - 369a7b854264a6e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Block_Mobile_Project.Employee&gt;) -&gt; () in Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_get_employees_failure() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "365">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "930F108E-86A2-4E00-86C5-7EC543504BA4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "test_get_employees_failure()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "930F108E-86A2-4E00-86C5-7EC543504BA4 - 369a7b854264a627"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Block_Mobile_Project.Employee&gt;) -&gt; () in Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_get_employees_failure() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "930F108E-86A2-4E00-86C5-7EC543504BA4 - 369a7b854264a646"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Block_Mobile_Project.Employee&gt;) -&gt; () in Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_get_employees_failure() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "462">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F64701F-D734-4787-825B-FDAC1C4178CD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "test_set_cache_data()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3F64701F-D734-4787-825B-FDAC1C4178CD - 978eb0d6f6fd5b28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_set_cache_data() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "191">
+               </Location>
+               <Location
+                  uuid = "3F64701F-D734-4787-825B-FDAC1C4178CD - b9666071cd6e5e81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_set_cache_data() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "69">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48C71890-6CDF-45BC-BDA1-AB35E186A13B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "removeImage(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99B4D64A-BADD-4AED-95B4-86AE2A1B508F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "removeImage(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFF4BA37-53CC-41D4-A9C4-497F7350D5C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "storeImage(image:urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14070EBF-8536-47C4-9BD9-877DC2DC2479"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "storeImage(image:urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B08100D0-2D2B-4875-B692-7E47DE380D89"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "storeImage(image:urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24E5B878-44F4-48BF-AF8B-0A225944FEB8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "storeImage(image:urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5941735B-8DD8-4F75-9CE8-4B98D87672C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "loadImage(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "143F3EEE-FFAE-4132-8114-9DAD391622C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "loadImage(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEB65F4A-8EEA-4707-AB26-F46B317960CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "loadImage(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20FC92E4-F0AE-48DB-B292-53800A1EBE6E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "loadImage(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDE0F4CB-88DA-40C0-BCE4-0E9FEB2782E9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "storeImage(image:urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F880DEF0-1C03-4E89-A089-7B4A0E9BEAC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "storeImage(image:urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCBD2E17-3243-46B3-A81E-72BFC09EC069"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "storeImage(image:urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A86DA52-B156-41D1-AEA2-D21FD050421F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "storeImage(image:urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E897F929-7E62-44E4-A7F0-3023A530742A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "storeImage(image:urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AF3391B-26AC-41F0-ABFF-06020AD987CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "storeImage(image:urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "843674EB-0050-401B-B2BA-659163BC5D45"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "storeImage(image:urlString:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "843674EB-0050-401B-B2BA-659163BC5D45 - fea1655b015d4664"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Block_Mobile_Project.CahceManager.storeImage(image: __C.UIImage, urlString: Swift.String) -&gt; Swift.Result&lt;Swift.String, Swift.Error&gt;"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/Managers/CacheManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1173">
+               </Location>
+               <Location
+                  uuid = "843674EB-0050-401B-B2BA-659163BC5D45 - fea1655b015d4664"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Block_Mobile_Project.CahceManager.storeImage(image: __C.UIImage, urlString: Swift.String) -&gt; Swift.Result&lt;Swift.String, Swift.Error&gt;"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/Managers/CacheManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1235">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CF1342F-92C2-4E44-BA8F-F741BA4A8F75"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "storeImage(image:urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C822475-F7D2-4385-8617-FF28181C4970"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "loadImage(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67A5D36F-B0BE-422D-A3C0-D49B7B8B38AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "loadImage(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74E4B873-A524-415D-A80D-631B348CA700"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "storeImage(image:urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "075633C5-E962-42CC-BF0F-099BEB2F849D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "removeImage(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA9262CF-F1A3-4B7A-985D-00DA89E61082"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "loadImage(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2769B0EC-6E92-41B5-BC77-6085A9B92451"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "loadImage(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2501102-F6D5-4C82-BD4C-EB5417F373A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "loadImage(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4ACE38D-66B6-41CC-B857-1C7A4E732E4E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "removeImage(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FDF9752-3389-4C25-B3A4-E1C4AD465925"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4230B889-12A0-424B-9E85-48F11FE5FEB2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0C1E5F6-970C-4BD3-AB3E-96A62288F72A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/CustomViews/EmployeeProfileCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "set(employeeData:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F0C1E5F6-970C-4BD3-AB3E-96A62288F72A - 26e0cf6ab0c8eb19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.EmployeeProfileCollectionViewCell.set(employeeData: Swift.Optional&lt;Block_Mobile_Project.Employee&gt;) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/CustomViews/EmployeeProfileCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "179">
+               </Location>
+               <Location
+                  uuid = "F0C1E5F6-970C-4BD3-AB3E-96A62288F72A - 71373c1d26ad51c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in Block_Mobile_Project.EmployeeProfileCollectionViewCell.set(employeeData: Swift.Optional&lt;Block_Mobile_Project.Employee&gt;) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/CustomViews/EmployeeProfileCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB5A5882-6653-40D1-91EF-E0FC768EA738"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/CustomViews/EmployeeProfileCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "set(employeeData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7DD4DD1-5BA4-483A-BE84-E82491B5FE4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "loadImage(urlString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF32AF91-99E1-4FE0-8F51-1A94F5D108A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/CustomViews/EmployeeDirectoryCollectionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9196B530-1C45-4022-B4D5-162A8B329D7A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76AB7230-8A2A-4AC1-859F-FC6FF88CF66C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9143469F-89D9-4571-AA3E-D938A814EE41"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D53223F9-F7EB-40D8-8CFD-5238750AA0C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CCE70C2-4CD6-456C-A61D-5FC33D788CE8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8CCE70C2-4CD6-456C-A61D-5FC33D788CE8 - 199960b3cbc81458"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.NetworkManager.fetchImage(imageUrlString: Swift.String, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1109">
+               </Location>
+               <Location
+                  uuid = "8CCE70C2-4CD6-456C-A61D-5FC33D788CE8 - 199960b3cbc81458"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.NetworkManager.fetchImage(imageUrlString: Swift.String, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "1187">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F23C676F-CE13-4FCD-9B37-B74AA73B54B6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "057B2C19-DCA4-4F51-B8CF-BD97FC8995C0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D935E958-2D8C-40CF-940A-A56B3282A5A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D935E958-2D8C-40CF-940A-A56B3282A5A9 - 199960b3cbc81502"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.NetworkManager.fetchImage(imageUrlString: Swift.String, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "D935E958-2D8C-40CF-940A-A56B3282A5A9 - 199960b3cbc81502"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.NetworkManager.fetchImage(imageUrlString: Swift.String, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "657">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A560B0D3-7CD5-4F68-9581-793EB14E4559"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A9B8816-0301-4F50-A6B5-8E9364CE3351"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07A39DBF-2316-4525-AFD6-0B59FEE2970A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "07A39DBF-2316-4525-AFD6-0B59FEE2970A - 199960b3cbc80b9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_Project.NetworkManager.fetchImage(imageUrlString: Swift.String, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "1264">
+               </Location>
+               <Location
+                  uuid = "07A39DBF-2316-4525-AFD6-0B59FEE2970A - ee8c6033ad2e600b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Block_Mobile_Project.NetworkManager.fetchImage(imageUrlString: Swift.String, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CECFBC09-EABF-4C92-AD66-D55827E74333"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71911D82-9103-4DB4-9F1C-C42F9B6A8510"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC9DEEAB-F001-4C68-BCB2-4C263E4A4498"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35F48C9A-0F15-4948-A271-8721DF5384DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0729505-BB6C-4A55-B99D-DED51E2F753A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C0729505-BB6C-4A55-B99D-DED51E2F753A - ee8c6033ad2e61ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Block_Mobile_Project.NetworkManager.fetchImage(imageUrlString: Swift.String, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1001">
+               </Location>
+               <Location
+                  uuid = "C0729505-BB6C-4A55-B99D-DED51E2F753A - ee8c6033ad2e61ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Block_Mobile_Project.NetworkManager.fetchImage(imageUrlString: Swift.String, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C55E6E21-6A79-4E2E-9FA0-1E4880F91197"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95672A3E-2EC6-4028-971C-0236CC6CAC3B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45E4F258-7AB4-4840-A212-F9EFB21244C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "45E4F258-7AB4-4840-A212-F9EFB21244C7 - ee8c6033ad2e6302"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Block_Mobile_Project.NetworkManager.fetchImage(imageUrlString: Swift.String, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "2132">
+               </Location>
+               <Location
+                  uuid = "45E4F258-7AB4-4840-A212-F9EFB21244C7 - ee8c6033ad2e6302"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Block_Mobile_Project.NetworkManager.fetchImage(imageUrlString: Swift.String, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "2448">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68ADAF5F-4148-4A42-B8D0-539BDFDF940F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D3CC589-7600-4CC3-B8A4-04FC919A7353"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EC4B19C-DAD7-411A-AA4C-D0F92694A9D8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_Project/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "fetchImage(imageUrlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3EC4B19C-DAD7-411A-AA4C-D0F92694A9D8 - ee8c6033ad2e6486"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Block_Mobile_Project.NetworkManager.fetchImage(imageUrlString: Swift.String, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "2873">
+               </Location>
+               <Location
+                  uuid = "3EC4B19C-DAD7-411A-AA4C-D0F92694A9D8 - ee8c6033ad2e6486"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Block_Mobile_Project.NetworkManager.fetchImage(imageUrlString: Swift.String, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "Block_Mobile_Project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_Project/Managers/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "2878">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC879581-84EC-4A88-9944-5D838A094EAF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "test_set_cache_data()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DC879581-84EC-4A88-9944-5D838A094EAF - 978eb0d6f6fd64ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_set_cache_data() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "520">
+               </Location>
+               <Location
+                  uuid = "DC879581-84EC-4A88-9944-5D838A094EAF - b9666071cd6e6166"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_set_cache_data() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "DC879581-84EC-4A88-9944-5D838A094EAF - b9666071cd6e6124"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_set_cache_data() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "149">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D66A491-1032-4C15-B21A-06B3BA617AEF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "test_set_cache_data()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D66A491-1032-4C15-B21A-06B3BA617AEF - b9666071cd6e6199"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_set_cache_data() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "149">
+               </Location>
+               <Location
+                  uuid = "8D66A491-1032-4C15-B21A-06B3BA617AEF - b9666071cd6e61db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_set_cache_data() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "624">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9A0FB4B-3958-46FA-8A88-B9623A0DE218"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "test_get_employees_success()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D9A0FB4B-3958-46FA-8A88-B9623A0DE218 - d8e94d08b9ad82f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_get_employees_success() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "311">
+               </Location>
+               <Location
+                  uuid = "D9A0FB4B-3958-46FA-8A88-B9623A0DE218 - 63c4ba8531c3b7e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Block_Mobile_Project.Employee&gt;) -&gt; () in Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_get_employees_success() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "310C8373-CD36-4672-8AF2-5FF32964710F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "test_get_employees_success()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "310C8373-CD36-4672-8AF2-5FF32964710F - d8e94d08b9ad8235"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_get_employees_success() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "590">
+               </Location>
+               <Location
+                  uuid = "310C8373-CD36-4672-8AF2-5FF32964710F - 63c4ba8531c3b7a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Block_Mobile_Project.Employee&gt;) -&gt; () in Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_get_employees_success() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "310C8373-CD36-4672-8AF2-5FF32964710F - 63c4ba8531c3b721"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Block_Mobile_Project.Employee&gt;) -&gt; () in Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_get_employees_success() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "417">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DF20F51-F59C-4216-B168-3470EB30592C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "test_get_employees_success()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DF20F51-F59C-4216-B168-3470EB30592C - 63c4ba8531c3b75c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Block_Mobile_Project.Employee&gt;) -&gt; () in Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_get_employees_success() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "0DF20F51-F59C-4216-B168-3470EB30592C - 63c4ba8531c3b75c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Block_Mobile_Project.Employee&gt;) -&gt; () in Block_Mobile_ProjectTests.Block_Mobile_ProjectTests.test_get_employees_success() -&gt; ()"
+                  moduleName = "Block_Mobile_ProjectTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/E72778/Downloads/JordanHicksFinalProject2/Block_Mobile_ProjectTests/Block_Mobile_ProjectTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "577">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
